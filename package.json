@@ -1,0 +1,20 @@
+{
+  "name": "@saltire/decode",
+  "version": "0.1.0",
+  "description": "Decode data use web wasm easily",
+  "main": "index.js",
+  "devDependencies": {
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  },
+  "scripts": {
+    "test": "yarn test"
+  },
+  "keywords": [
+    "decode",
+    "crypto"
+  ],
+  "author": "saltire",
+  "license": "MIT"
+}
