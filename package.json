@@ -1,6 +1,6 @@
 {
-  "name": "@saltire/decode",
-  "version": "0.1.0",
+  "name": "@ahau2019/decode",
+  "version": "1.0.0",
   "description": "Decode data use web wasm easily",
   "main": "./pkg/saltire_decode.js",
   "devDependencies": {
@@ -8,8 +8,8 @@
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.10"
   },
+  "files": ["pkg"],
   "scripts": {
-    "test": "yarn test",
     "server": "webpack-dev-server"
   },
   "keywords": [
