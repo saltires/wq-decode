@@ -1,0 +1,10 @@
+{
+  "name": "@saltire/saltire-decode",
+  "collaborators": [
+    "saltire ye998102@163.com"
+  ],
+  "version": "0.1.0",
+  "module": "saltire_decode.js",
+  "types": "saltire_decode.d.ts",
+  "sideEffects": false
+}

@@ -1,6 +1,6 @@
 {
   "name": "@ahau2019/decode",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Decode data use web wasm easily",
   "main": "./pkg/saltire_decode.js",
   "devDependencies": {
